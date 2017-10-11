@@ -1,6 +1,6 @@
 # Bootstrap Select
 
-### Task you need to style the select element as per the design
+### TASK: you need to style the select element as per the design
 
 1. To do this you will need an extra add on to Bootstrap
 2. Go to [this url](https://silviomoreto.github.io/bootstrap-select/)
