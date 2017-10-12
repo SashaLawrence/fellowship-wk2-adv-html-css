@@ -8,7 +8,7 @@ Here are some more designs to make into code. Make each page with HTML & Sass.
 
 Consider reusable components for each page.
 
-Split up your Sass files into a sensible system (e.g one for rest, settings, typography and for each component etc...)
+Split up your Sass files into a sensible system (e.g one for reset, settings, typography and for each component etc...)
 
 ### Task 2
 
