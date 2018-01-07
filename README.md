@@ -8,13 +8,7 @@ Advanced HTML & CSS
 
 You can find all the content for [day six here in this folder](day06) - including all the code for the lessons and all the links to all the presentations, plus further reading.
 
-#### Overview
 
-- Getting a project brief
-- Personas
-- Sitemaps
-- Scamping
-- Wireframing
 
 ---
 
