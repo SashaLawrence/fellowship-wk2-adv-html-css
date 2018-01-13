@@ -3,10 +3,17 @@
 
 ### Overview
 
-- Coding templates from designs using what we've learnt, Sass & CSS Grid |
-- Individually
-- Design Requirements, CSS frameworks, CSS Grid, Sass, Design Systems
-- Project: Multipage website
+- Individually (apart from today) |
+- Covering |
+	- Requirements Gathering
+	- CSS Frameworks
+	- CSS Grid
+	- Sass
+	- CSS Methodologies
+	- Design Systems
+	- Some advanced CSS
+- Project: Multipage website |
+- Coding templates, from designs, using what we've learnt |
 
 ---
 
@@ -22,9 +29,11 @@
 
 - Waterfall
 - Agile
+- Lean
+
 - Kanban
 - Scrum
-- Lean
+
 
 [https://toggl.com/developer-methods-infographic](https://toggl.com/developer-methods-infographic)
 
@@ -38,15 +47,15 @@
 
 ---
 
+![Lean process illustration](day06/01designProcess/lean.png)
+
+---
+
 ![Kanban process illustration](day06/01designProcess/kanban.png)
 
 ---
 
 ![Scrum process illustration](day06/01designProcess/scrum.png)
-
----
-
-![Lean process illustration](day06/01designProcess/lean.png)
 
 ---
 
@@ -62,11 +71,21 @@
 - Design |
 - Review and sign-off |
 - Build |
-- Profit |
+- Profit 💰 |
 
 ---
 
 # Can you see problems?
+
+---
+
+### Before design (today's exercises)
+
+- Personas & typical behaviours
+- Sitemap
+- Scamp
+- Wireframe
+- Sign off (review with class)
 
 ---
 
@@ -145,13 +164,16 @@ The client should be able to add work and other interesting content.
 
 ---
 
-### Exercise
+# Personas & User Journeys
 
-- Personas & typical behaviours
-- Sitemap
-- Scamp
-- Wireframe
-- Sign off (review with class)
+---
+
+### Let's do this together
+
+- What is this site for?
+- Who are our users?
+- What will they do?
+- What technologies will they use?
 
 ---
 
@@ -171,19 +193,13 @@ Think about:
 
 ### Simply a list
 
-Example here
+![Sitemap list style](day06/01designProcess/listSitemap.png)
 
 ---
 
 ### Or a flow diagram
 
-Example here
-
----
-
-Can get complicated:
-
-Example here
+![Sitemap flow style](day06/01designProcess/flowSitemap.png)
 
 ---
 
@@ -320,7 +336,7 @@ Clients will circulate a wireframe link within the organisation, often without y
 
 ### Exercise: Wireframe
 
-Use Balsamiq to create detailed wireframes of the app.
+Use Balsamiq to create detailed wireframes of the website.
 
 Include all functionality, interactions, annotations etc...
 

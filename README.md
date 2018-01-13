@@ -26,7 +26,18 @@ You can find all the contents for [day six in the folder here](day06).
 
 ---
 
+### Day Seven
 
+You can find all the contents for [day six in the folder here](day06).
+
+#### Overview
+
+- Project process
+- Work methods
+- Requirements gathering
+- Sitemaps
+- Scamping & Wirefaming
+- Project Handover
 
 
 
