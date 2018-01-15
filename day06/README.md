@@ -1,12 +1,22 @@
-# Day Six Contents
+# DevMe_ Fellowship Day Six
+## Requirements gathering
 
-- Project process
-- _Presentation_ [Week Two: Intro](https://docs.google.com/presentation/d/1Evc5C40xQnrFFbM0_apGlaEGkDwaOsb_hdVh-6yKu8E/edit#slide=id.p)
-  - Task: [Give three personas for this site](http://apprenticeshiphubwest.co.uk/)
-  - Task: Weeks brief & personas
-  - Task: Sitemap for brief
-  - Task: Scamping for sitemap
-  - Task: Wireframing
+---
+
+### Requirements gathering
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day06/01designProcess).
+
+#### Exercises
+
+1. > Write down three personas for the [apprenticeshiphubwest site](http://apprenticeshiphubwest.co.uk/)
+2. > Create a sitemap
+3. > Create a scamp
+4. > Create a wirefame
+
+---
 
 ## Talk of the day
 
@@ -14,4 +24,4 @@
 
 ## Homework
 
-Difference between API, framework and library
+[CSS Grid Garden](http://cssgridgarden.com/)
