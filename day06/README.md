@@ -7,14 +7,14 @@
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css/?p=day06/01designProcess).
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day06/01designProcess).
 
 #### Exercises
 
 1. > Write down three personas for the [apprenticeshiphubwest site](http://apprenticeshiphubwest.co.uk/)
 2. > Create a sitemap
-2. > Create a scamp
-2. > Create a wirefame
+3. > Create a scamp
+4. > Create a wirefame
 
 ---
 

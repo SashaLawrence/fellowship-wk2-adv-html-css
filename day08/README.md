@@ -1,9 +1,27 @@
-# Day Eight Contents
+# DevMe_ Fellowship Day Eight
+## Sass
 
-- Difference between apis, frameworks and libraries.
-- _Presentation_ [Bootstrap](https://docs.google.com/presentation/d/114_vSdA1_947dAU-3TRRvWbiOHcPdBgi4HgxrCmfgbU/edit#slide=id.p)
-  - [Lesson 13](lesson13) : Setting up your Sass
-  - Using Sass
+---
+
+### Sass
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day08/01sass).
+
+#### Exercises
+
+1. > Create a sass ecosystem for the website
+
+---
+
+### Cool CSS
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day08/02coolCSS).
+
+---
 
 ## Keyboard shortcut of the day
 
@@ -15,5 +33,5 @@
 
 ## Homework
 
-Research Style Guides and Pattern Libraries
+Research complex selectors
 

@@ -1,14 +1,22 @@
-# CSS Design Systems
+# Design Systems
 
 ---
 
-### Styleguides & Pattern Libraries
+# Styleguides & Pattern Libraries
 
-**Style Guide:** How things look - colours, fonts, styles etc…
+---
+
+### Style Guide
+
+How things look - colours, fonts, styles etc…
 
 [https://alistapart.com/about/style-guide](https://alistapart.com/about/style-guide)
 
-**Pattern Library:** Collection of elements you’d use in your website
+---
+
+### Pattern Library
+
+Collection of elements you’d use in your website
 
 [http://patterns.alistapart.com/](http://patterns.alistapart.com/)
 
@@ -30,7 +38,19 @@ They could use a pattern library
 
 ---
 
-### Resource
+### There are tools
+
+Fractal is the most common
+
+[https://fractal.build/](https://fractal.build/)
+
+You build your components and it acts a good place to keep them and a reference for the team
+
+---
+
+### Resources
+
+[https://adactio.com/links/tags/patterns](https://adactio.com/links/tags/patterns)
 
 [http://styleguides.io/](http://styleguides.io/)
 

@@ -1,22 +1,58 @@
-# Day Seven Contents
+# DevMe_ Fellowship Day Seven
+## CSS Grid & Multipage Site
 
-- Difference between apis, frameworks and libraries.
-- _Presentation_ [Bootstrap](https://docs.google.com/presentation/d/114_vSdA1_947dAU-3TRRvWbiOHcPdBgi4HgxrCmfgbU/edit#slide=id.p)
-  - [Lesson 11](lesson11) : Setting out a page with Bootstrap
-  - Set up project for week, do the HTML only
-  - [Lesson 12](lesson12) : Weekly project - inc bootstrap
+---
 
-## Keyboard shortcut of the day
+### CSS Grid
 
-**CMD/CTRL - T** : New tab in Chrome
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day07/01CSSgrid#/).
+
+#### Exercise
+
+1. > Mark up all the pages of the site and lay them out using CSS Grid
+
+---
+
+### Design Systems
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day07/02designSystems#/4).
+
+#### Exercise
+
+1. > Pick out repeated elements from the [https://www.bristol.gov.uk/](https://www.bristol.gov.uk/) site
+
+---
+
+### CSS Methodologies
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day07/03CSSmethodologies).
+
+#### Exercise
+
+1. > Pick out repeated elements from the [https://www.bristol.gov.uk/](https://www.bristol.gov.uk/) site
+
+---
+
+
 
 ## Talk of the day
 
 [Rachel Andrew: CSS Grid](https://www.youtube.com/watch?v=tjHOLtouElA)
+
+[Anna Debenham: Front End Styleguides](https://vimeo.com/145138874)
+
+[Jina Anne: Design Systems](https://www.youtube.com/watch?v=LF_BHvNWzi0)
+
+
 
 ## Homework
 
 Make sure Sass is installed and read the homepage
 
 Make sure you've done your terminal training
-

@@ -113,22 +113,10 @@ Way of structuring/organising CSS with conventions
 
 ### Further reading
 
-- OOCSS: [http://oocss.org/](http://oocss.org/)
+- [http://oocss.org/](http://oocss.org/)
 - [http://atomicdesign.bradfrost.com/](http://atomicdesign.bradfrost.com/)
 - [http://getbem.com/](http://getbem.com/)
 - [https://smacss.com/](https://smacss.com/)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

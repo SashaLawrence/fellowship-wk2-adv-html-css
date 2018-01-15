@@ -10,7 +10,9 @@
 
 ![New York Times Grid](day07/01CSSgrid/newsGrid.png)
 
-This transferred over to web design
+---
+
+# This transferred over to web design
 
 ---
 

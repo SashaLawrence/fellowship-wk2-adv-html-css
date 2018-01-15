@@ -28,69 +28,49 @@ You can find all the contents for [day six in the folder here](day06).
 
 ### Day Seven
 
-You can find all the contents for [day six in the folder here](day06).
+You can find all the contents for [day seven in the folder here](day07).
 
 #### Overview
 
-- Project process
-- Work methods
-- Requirements gathering
-- Sitemaps
-- Scamping & Wirefaming
-- Project Handover
-
-
-
+- CSS Grid
+- Design systems
+- CSS Methodologies
 
 ---
 
-## Day Seven
+### Day Eight
 
-You can find all the content for [day seven here in this folder](day07) - including all the code for the lessons and all the links to all the presentations, plus further reading.
+You can find all the contents for [day eight in the folder here](day08).
 
 #### Overview
 
-- Frameworks, libraries & APIs
-- Bootstrap
-- Grid systems
+- Sass
+- Advanced CSS
 
 ---
 
-## Day Eight
+### Day Nine
 
-You can find all the content for [day eight here in this folder](day08) - including all the code for the lessons and all the links to all the presentations, plus further reading.
+You can find all the contents for [day nine in the folder here](day09).
 
 #### Overview
 
-- Adding a Sass file
-- Sass basics
-- Overwriting the bootstrap styles
+- Complex Selectors
 - CSS Specificity
-
----
-
-## Day Nine
-
-You can find all the content for [day nine here in this folder](day09) - including all the code for the lessons and all the links to all the presentations, plus further reading.
-
-#### Overview
-
-- Different CSS Methodologies
-- Styleguides and pattern libraries
 
 ---
 
 ## Day Ten
 
-#### Last day.
+You can find all the contents for [day ten in the folder here](day10).
+
+- CSS Frameworks
+
+#### Last day!
 
 - Finish week task
 - Go over anything from the past two weeks
 - Quiz
-
-
-
-
 
 ---
 
