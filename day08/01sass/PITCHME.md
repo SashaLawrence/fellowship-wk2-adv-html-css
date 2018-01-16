@@ -46,6 +46,7 @@ input {
 
 ### What if?
 
+```css
 $devme-teal: #00e6b8;
 
 p {
@@ -60,6 +61,7 @@ button {
 input {
 	border-color: $devme-teal;
 }
+```
 
 ---
 
@@ -70,8 +72,8 @@ input {
 ### CSS values as variables
 
 ```css
-$brand-font:			Helvetica, sans-serif;
-$brand-colour:			#00e6b8;
+$brand-font: Helvetica, sans-serif;
+$brand-colour: #00e6b8;
 $content-padding:	40px;
 
 p {
@@ -202,11 +204,15 @@ We're not going to have one file, we're going to have lots.
 ### Start watching your files
 
 
-`sass --watch {Sass CSS file input}:{CSS file output}`
+```css
+sass --watch {Sass CSS file input}:{CSS file output}
+```
 
 Navigate to your directory in terminal
 
-`sass --watch css/theme.scss:css/theme.css`
+```css
+sass --watch css/theme.scss:css/theme.css
+```
 
 ---
 
