@@ -5,7 +5,6 @@
 ### Cursor
 
 ```css
-
 /* little hand 👆 */
 button {
 	cursor: pointer;
@@ -28,7 +27,10 @@ ul {
 }
 ```
 
-For `list-style-type` `list-style-position` `list-style-image`
+For
+- `list-style-type`
+- `list-style-position`
+- `list-style-image`
 
 Easier to use a background image on list items for bullets
 
@@ -46,6 +48,10 @@ transform: translateX(10px);
 transform: scale(x,y);
 transform: rotate(30deg) skewX(25deg);
 ```
+
+---
+
+Transitions & Animations
 
 ---
 
@@ -98,7 +104,7 @@ Background images
 section {
 	background-color: purple;
 	background-image: url(image.jpg);
-  background-blend-mode: multiply;
+	background-blend-mode: multiply;
 }
 ```
 
@@ -132,6 +138,8 @@ image {
 
 ![CSS shape example](day08/02coolCSS/cssShape.png)
 
+---
+
 I want to mention them but not well supported yet.
 
 [https://www.html5rocks.com/en/tutorials/shapes/getting-started/](https://www.html5rocks.com/en/tutorials/shapes/getting-started/)
@@ -145,6 +153,7 @@ I want to mention them but not well supported yet.
 
 (Sort of) variables in CSS - the spec is just about to expand...
 
+```css
 :root {
 	--brandCol: red;
 }
@@ -152,6 +161,7 @@ I want to mention them but not well supported yet.
 p {
 	color: var(--brandCol);
 }
+```
 
 More to be said [https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
 
