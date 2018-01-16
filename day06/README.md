@@ -18,6 +18,14 @@
 
 ---
 
+### Accessibility
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day06/02accessibility).
+
+---
+
 ## Talk of the day
 
 [Joe Leech: Power of 100](https://www.youtube.com/watch?v=wvSNGuEbPzg)

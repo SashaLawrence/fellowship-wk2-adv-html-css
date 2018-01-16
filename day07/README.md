@@ -19,7 +19,7 @@
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day07/02designSystems#/4).
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day07/02designSystems).
 
 #### Exercise
 
