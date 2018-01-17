@@ -51,7 +51,7 @@ transform: rotate(30deg) skewX(25deg);
 
 ---
 
-Transitions & Animations
+# Transitions & Animations
 
 ---
 
@@ -164,6 +164,14 @@ p {
 ```
 
 More to be said [https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
+
+---
+
+### Maths
+
+```css
+calc(10% + 10px);
+```
 
 ---
 
