@@ -13,6 +13,14 @@
 
 1. > Mark up all the pages of the site and lay them out using CSS Grid
 
+#### Some Codepens
+
+Minmax: [https://codepen.io/Rumyra/pen/zpJQKX](https://codepen.io/Rumyra/pen/zpJQKX)
+
+Explicit/Implicit: [https://codepen.io/Rumyra/pen/KZxRGy](https://codepen.io/Rumyra/pen/KZxRGy)
+
+Box Alignment: [https://codepen.io/Rumyra/pen/opPrJd](https://codepen.io/Rumyra/pen/opPrJd)
+
 ---
 
 ### Design Systems
