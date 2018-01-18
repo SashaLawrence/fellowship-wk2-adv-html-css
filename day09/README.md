@@ -11,7 +11,7 @@
 
 ---
 
-### CSS SPecificity
+### CSS Specificity
 
 #### Presentation
 

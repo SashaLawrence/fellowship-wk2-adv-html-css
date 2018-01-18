@@ -74,6 +74,7 @@ Indeterminate [https://css-tricks.com/indeterminate-checkboxes/](https://css-tri
 
 ### Targeting children
 
+```css
 el:first-child {}
 el:last-child {}
 el:only-child {}
