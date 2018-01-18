@@ -7,7 +7,10 @@
 A library is a collection of functions / objects that serves one particular purpose. you could use a library in a variety of projects.
 
 A framework is a collection of patterns and libraries to help with building an application.
+
 An API is an interface for other programs to interact with your program without having direct access.
+
+---
 
 To put it another way, think of a library as an add-on / piece of an application , a framework as the skeleton of the application, and an API as an outward-facing part of said app.
 
