@@ -80,7 +80,7 @@ I'm sure you've realised by now you can re-use the code you're writing
 
 # Why
 
-So you don't have to do work
+So you don't have to do the work
 
 ---
 
@@ -88,11 +88,23 @@ So you don't have to do work
 
 You include the code (probably a css file or files)
 
-You use the given html
+You use the given HTML
 
 ---
 
 ### Let's have a look
+
+---
+
+### Start by reading the docs
+
+[https://getbootstrap.com/docs/4.0/getting-started/introduction/](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
+---
+
+### Bootstrap under the hood
+
+[https://github.com/twbs/bootstrap/tree/v4-dev/scss](https://github.com/twbs/bootstrap/tree/v4-dev/scss)
 
 ---
 
@@ -101,19 +113,6 @@ You use the given html
 You are tied into a system & to break out _could_ end up being more work
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
