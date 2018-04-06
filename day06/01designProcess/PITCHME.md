@@ -5,13 +5,16 @@
 
 - Individually (apart from today) |
 - Covering |
-	- Requirements Gathering
+	- Requirements Gathering & Project Process
 	- CSS Frameworks
 	- CSS Grid
 	- Sass
 	- CSS Methodologies
 	- Design Systems
 	- Some advanced CSS
+
+---
+
 - Project: Multipage website |
 - Coding templates, from designs, using what we've learnt |
 
@@ -30,7 +33,6 @@
 - Waterfall
 - Agile
 - Lean
-
 - Kanban
 - Scrum
 
@@ -341,15 +343,6 @@ Use Balsamiq to create detailed wireframes of the website.
 Include all functionality, interactions, annotations etc...
 
 ---
-
-# Design Handover
-
----
-
-### Remember last week
-
-What do we ask for?
-
 
 
 

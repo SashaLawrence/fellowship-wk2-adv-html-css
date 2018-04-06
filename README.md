@@ -17,12 +17,12 @@ You can find all the contents for [day six in the folder here](day06).
 
 #### Overview
 
-- Project process
-- Work methods
+- Project process & Work methods
 - Requirements gathering
 - Sitemaps
 - Scamping & Wirefaming
 - Project Handover
+- CSS Frameworks & Bootstrap
 
 ---
 
@@ -64,8 +64,6 @@ You can find all the contents for [day nine in the folder here](day09).
 
 You can find all the contents for [day ten in the folder here](day10).
 
-- CSS Frameworks
-
 #### Last day!
 
 - Finish week task
@@ -76,7 +74,7 @@ You can find all the contents for [day ten in the folder here](day10).
 
 ### Extra task
 
-Should you finish this weeks project completely, why not start building some starter files of your own!
-
-For inspiration [here are mine](http://white-paper.herokuapp.com/).
+- Should you finish this weeks project completely, why not start building some starter files of your own!
+	- For inspiration [here are mine](http://white-paper.herokuapp.com/).
+- There's a collection of animations on [Codepen here](https://codepen.io/collection/DQZBvq/). Most of them use css animations and the `@for` directive in sass. Why not try making your own.
 
