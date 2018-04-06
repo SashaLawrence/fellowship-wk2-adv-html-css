@@ -3,11 +3,11 @@
 
 ---
 
-### Frameworks
+### Ask me anything!
 
-#### Presentation
-
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day10/01CSSFrameworks).
+I keep today free so we can go over anything from the past two weeks you feel we need to go over again.
 
 ---
+
+We have the usual reviews and tests and you are welcome to try out the extra tasks today!
 
