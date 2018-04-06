@@ -18,11 +18,15 @@
 
 ---
 
-### Accessibility
+### Prototyping & CSS Frameworks
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day06/02accessibility).
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk2-adv-html-css?p=day06/02prototyping).
+
+#### Exercises
+
+1. > Prototype one of the pages with Bootstrap
 
 ---
 
