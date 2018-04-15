@@ -30,7 +30,7 @@
 
 ### There are loads
 
-- Of add on grid systems
+- Of CSS grid systems
 - Included in frameworks
 - Just have a google!
 
@@ -94,7 +94,7 @@ If we didn't set cols & rows the grid would do it for us and be an _implicit_ gr
 
 ### A couple of notes
 
-The fr unit is only available for grid
+The `fr` unit is only available for grid
 
 (We are considering it as a global unit \o/)
 
@@ -125,6 +125,7 @@ We can name the areas we have created
 		"main main aside"
 		"main main ."
 		"footer footer ."
+	;
 }
 ```
 
@@ -181,6 +182,33 @@ There's also a `span` keyword which I want to mention, but right now could be to
 	grid-auto-flow: column;
 }
 ```
+
+---
+
+### Aligning children
+
+```css
+/* on parent */
+.page__home {
+	justify-items: start;
+	align-items: stretch;
+}
+
+/* on individual child */
+.header-main {
+	justify-self: end;
+	align-self: center;
+}
+```
+---
+
+### Support
+
+Polyfills: (you don't need one)
+
+[https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
+
+[https://caniuse.com/#search=grid](https://caniuse.com/#search=grid)
 
 ---
 
