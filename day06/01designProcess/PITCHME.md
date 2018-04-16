@@ -70,6 +70,9 @@
 - Review and sign-off |
 - Technical Specification |
 - Review and sign-off |
+
+---
+
 - Design |
 - Review and sign-off |
 - Build |

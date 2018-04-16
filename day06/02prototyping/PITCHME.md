@@ -8,7 +8,7 @@
 - Adjustments |
 - Problems |
 - Versions |
-- Visualise & planning
+- Visualise & planning |
 
 ---
 
@@ -26,7 +26,9 @@
 
 ## Solution?
 
-### Prototypes!
+---
+
+## Prototypes!
 
 ---
 
@@ -171,7 +173,7 @@ You use the given HTML
 ### Exercise
 
 - Build a page with Bootstrap |
-- DOwnload it and include it |
+- Download it and include it |
 - Read the docs and start adding HTML to your page |
 
 ---
