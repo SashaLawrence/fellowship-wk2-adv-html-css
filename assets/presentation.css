@@ -49,6 +49,7 @@ body {
 	color: var(--devMeGreen);
 }
 
+.reveal h1 {font-size: 3.2em;}
 .reveal h2 {font-size: 1.9em;}
 
 /* paras, lists, links etc... */
