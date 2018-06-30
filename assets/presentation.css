@@ -73,12 +73,19 @@ body {
 }
 
 /* code */
+.reveal code {
+	color: grey;
+  background-color: white;
+  padding: 8px;
+  font-size: 80%;
+}
 .reveal pre {
 	line-height: 1.4;
 }
 .reveal pre code {
 	padding:15px;
 	max-height: auto;
+	font-size: 100%;
 }
 
 /*
