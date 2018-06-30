@@ -170,14 +170,19 @@ More to be said [https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_vari
 ### Maths
 
 ```css
-calc(10% + 10px);
+body {
+	padding: 20px;
+}
+section {
+	width: calc(100vw - 40px);
+}
 ```
 
 ---
 
 ### All those links!
 
-I know there were loads of them, [you can find them here](README.md)
+I know there were loads of them, [you can find them here](day08/02coolCSS/README.md)
 
 
 

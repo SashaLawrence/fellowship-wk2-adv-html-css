@@ -77,8 +77,8 @@
 ```css
 .page__home {
 	display: grid;
-	grid-template-columns: 100px 1fr 100px;
-	grid-template-rows: repeat(4, 1fr);
+	grid-template-rows: 20vh 1fr 1fr 16vh;
+	grid-template-columns: repeat(3, 1fr);
 }
 ```
 
@@ -103,7 +103,8 @@ There's also a minmax() function
 And you can put a gap between these areas
 
 ```css
-grid-template-columns: minmax(100px, 300px);
+grid-template-rows: 20vh 1fr 1fr 16vh;
+grid-template-columns: repeat(3, 1fr);
 grid-gap: 1rem;
 ```
 
@@ -118,13 +119,13 @@ We can name the areas we have created
 ```css
 .page__home {
 	display: grid;
-	grid-template-columns: 100px 1fr 100px;
-	grid-template-rows: repeat(4, 1fr);
+	grid-template-rows: 20vh 1fr 1fr 16vh;
+	grid-template-columns: repeat(3, 1fr);
 	grid-template-areas:
 		"header header header"
 		"main main aside"
 		"main main ."
-		"footer footer ."
+		". footer ."
 	;
 }
 ```
@@ -170,11 +171,13 @@ Shorthand
 
 ---
 
-There's also a `span` keyword which I want to mention, but right now could be too confusing. I would get used to what we've just been through.
+Note there is more, you can name grid lines, there's a `span` keyword, and `minmax()` function
 
 ---
 
 ### Setting size on implicit grid
+
+Explicit is what you know, implicit is what you don't know
 
 ```css
 .page__home {

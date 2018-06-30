@@ -123,6 +123,24 @@ I'm sure you've realised by now you can re-use the code you're writing
 
 ---
 
+# What
+
+Collection of patterns
+
+Reusable code
+
+---
+
+# Where
+
+Not every framework is good for every project
+
+- Prototyping |
+- Docs |
+- Quick win |
+
+---
+
 # Why
 
 So you don't have to do the work

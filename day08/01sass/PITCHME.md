@@ -141,10 +141,10 @@ No more than 3 maybe 4 levels deep as a rule
 }
 
 .header-main {
-	@extend %green;
+	@extend %green-background;
 }
 .button {
-	@extend %green;
+	@extend %green-background;
 }
 ```
 
