@@ -1,0 +1,34 @@
+// Contents
+//
+//
+//
+
+label, input, textarea {
+	display: block;
+	font-size: 100%;
+
+}
+label {
+	margin-bottom: $verticalSpacing;
+
+}
+input, textarea {
+	box-sizing: border-box;
+	margin-bottom: $verticalSpacing*2;
+	padding: $verticalSpacing/2 $gutter/2;
+	width: 100%;
+}
+input[type="submit"] {
+	width: 25%;
+}
+
+
+
+.form-contact {}
+.form-g {
+  .form-g__label {}
+  .form-g__input {}
+  .form-g__input--ta {}
+}
+
+.form-search {}

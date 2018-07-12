@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headerFont;
+}
+h1 {font-size: $fontSize*3.2;}
+h2 {font-size: $fontSize*2.4;}
+h3 {font-size: $fontSize*1.6;}
+h4 {font-size: $fontSize*1.4;}
+h5 {font-size: $fontSize*1.2;}
+h6 {font-size: $fontSize;}
+
+.art-head {
+	margin-bottom: $verticalSpacing*2;
+	background-color: $brandColTwo;
+	text-align: center;
+	.art-head__text {
+		padding: $verticalSpacing 0px;
+	}
+}
+
+p {}
+
+a {font-size:100%;}
+
+b, i, em, strong {}
+
+ul, ol, li, dl {}
+
+blockquote, q {}

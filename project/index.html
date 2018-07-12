@@ -1,12 +1,138 @@
 <!DOCTYPE html>
-<html>
+<html class="no-js">
 <head>
-	<title></title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <title>Project 2: Home</title>
+
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+
+  <script type="text/javascript" src="js/modernizr-custom.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
 </head>
-<body>
+<body class="home"><div class="container">
 
-	<h1>hey</h1>
+  <header class="site-header">
+    <h1 class="site-header__h1">Ignis</h1>
 
+    <section class="site-header__nav">
+      <nav class="base-nav">
+        <a href="index.html" class="base-nav__link">Home</a>
+        <a href="blog.html" class="base-nav__link">Blog</a>
+        <a href="contact.html" class="base-nav__link">Contact</a>
+      </nav>
+
+      <button class="btn--icon btn--search">Show search</button>
+      <input type="search" class="no-show" />
+    </section>
+  </header>
+
+  <article class="hero">
+    <h2 class="hero__h2">My name is Joe<span class="hero__h2--hlight">.</span></h2>
+    <h2 class="hero__h2">I'm a <span class="hero__h2--emp">photographer</span></h2>
+    <p class="hero__text">Scroll down to begin your adventure</p>
+  </article>
+
+  <div class="gallery-one">
+    <picture class="gallery__pic">
+      <source srcset="http://via.placeholder.com/200x350" media="(max-width: 600px)">
+      <source srcset="http://via.placeholder.com/200x350" media="(min-width: 600px)">
+
+      <img src="http://via.placeholder.com/200x350" alt="MDN">
+    </picture>
+
+    <picture  class="gallery__pic">
+      <source srcset="http://via.placeholder.com/200x350" media="(max-width: 600px)">
+      <source srcset="http://via.placeholder.com/200x350" media="(min-width: 600px)">
+
+      <img src="http://via.placeholder.com/200x350" alt="MDN">
+    </picture>
+
+    <picture  class="gallery__pic">
+      <source srcset="http://via.placeholder.com/200x350" media="(max-width: 600px)">
+      <source srcset="http://via.placeholder.com/200x350" media="(min-width: 600px)">
+
+      <img src="http://via.placeholder.com/200x350" alt="MDN">
+    </picture>
+
+    <picture  class="gallery__pic">
+      <source srcset="http://via.placeholder.com/200x350" media="(max-width: 600px)">
+      <source srcset="http://via.placeholder.com/200x350" media="(min-width: 600px)">
+
+      <img src="http://via.placeholder.com/200x350" alt="MDN">
+    </picture>
+  </div><!--div one-->
+
+  <div class="gallery-two">
+    <picture  class="gallery__pic">
+      <source srcset="http://via.placeholder.com/200x350" media="(max-width: 600px)">
+      <source srcset="http://via.placeholder.com/200x350" media="(min-width: 600px)">
+
+      <img src="http://via.placeholder.com/200x350" alt="MDN">
+    </picture>
+
+    <picture  class="gallery__pic">
+      <source srcset="http://via.placeholder.com/200x350" media="(max-width: 600px)">
+      <source srcset="http://via.placeholder.com/200x350" media="(min-width: 600px)">
+
+      <img src="http://via.placeholder.com/200x350" alt="MDN">
+    </picture>
+
+    <picture  class="gallery__pic">
+      <source srcset="http://via.placeholder.com/200x350" media="(max-width: 600px)">
+      <source srcset="http://via.placeholder.com/200x350" media="(min-width: 600px)">
+
+      <img src="http://via.placeholder.com/200x350" alt="MDN">
+    </picture>
+
+    <picture  class="gallery__pic">
+      <source srcset="http://via.placeholder.com/200x350" media="(max-width: 600px)">
+      <source srcset="http://via.placeholder.com/200x350" media="(min-width: 600px)">
+
+      <img src="http://via.placeholder.com/200x350" alt="MDN">
+    </picture>
+  </div><!-- div two -->
+
+  <footer class="site-footer">
+    <nav class="site-footer__social">
+      <a class="btn--icon" href="http://facebook.com">Facebook</a>
+      <a class="btn--icon" href="http://twitter.com">Twitter</a>
+      <a class="btn--icon" href="http://linkin.com">Linkin</a>
+      <a class="btn--icon" href="http://dribble.com">Dribble</a>
+      <a class="btn--icon" href="http://youtube.com">You Tube</a>
+    </nav>
+  </footer>
+
+
+</div><!--container-->
+
+<script type="text/javascript">
+
+  $( document ).ready(function() {
+
+    $('.btn--search').click(function() {
+
+      $('input[type="search"]').toggle('no-show');
+
+      console.log('clicked!');
+    })
+
+  });
+
+  document.querySelector('btn--search');
+
+  window.addEventListener("click", function() {
+
+  }, false);
+
+
+</script>
 </body>
 </html>

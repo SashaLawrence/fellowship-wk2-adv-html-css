@@ -1,0 +1,28 @@
+.container {
+	max-width: 1200px;
+	margin: 0px auto; padding: 0px $gutter;
+}
+
+// site header placement
+.site-header {
+	display: flex;
+	justify-content: space-between;
+	padding: $verticalSpacing*2 0px;
+}
+
+// right site nav - consider styling to go in separate file
+.site-header__nav {
+	nav, button {
+		display: inline-block;
+	}
+
+	.base-nav__link {
+		padding-left: $gutter*3;
+	}
+}
+
+// footer
+.site-footer {
+	text-align: center;
+	padding: $verticalSpacing*2 0px;
+}

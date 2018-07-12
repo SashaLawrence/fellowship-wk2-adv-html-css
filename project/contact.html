@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <title>Project 2: Contact</title>
+  <!-- <link rel="stylesheet" type="text/css" href="styles/reset.css"> -->
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+
+</head>
+<body class="contact"><div class="container third-cols">
+
+  <header class="site-header">
+    <h1 class="">Ignis</h1>
+
+    <section class="site-header__nav">
+      <nav class="base-nav">
+        <a href="index.html" class="base-nav__link">Home</a>
+        <a href="blog.html" class="base-nav__link">Blog</a>
+        <a href="contact.html" class="base-nav__link">Contact</a>
+      </nav>
+
+      <button class="btn--icon">Show search</button>
+    </section>
+  </header>
+
+    <header class="art-head">
+      <h1 class="art-head__text">Contact</h1>
+    </header>
+
+    <section class="form-contact">
+      <form id="message-form" action="https://developme.space/contact-form-handler.php" method="post">
+
+        <div class="form-g">
+          <label for="cfMessage" class="form-g__label">Message</label>
+          <textarea id="cfMessage" name="contact-message" class="form-g__input--ta" required></textarea>
+        </div>
+
+        <div class="form-g">
+          <label for="cfName" class="form-g__label">Name</label>
+          <input id="cfName" name="contact-name" type="text" placeholder="Jo Bloggs" class="form-g__input" required/>
+        </div>
+
+        <div class="form-g">
+          <label for="cfEmail" class="form-g__label">Email</label>
+          <input id="cfEmail" name="contact-email" type="email" placeholder="jo@domain.com" class="form-g__input" required />
+        </div>
+
+        <div class="form-g">
+          <label for="cfWeb" class="form-g__label">Website</label>
+          <input id="cfWeb" name="contact-website" type="url" placeholder="www.google.com" class="form-g__input" />
+        </div>
+
+        <input type="hidden" name="recipient" value="ruth">
+        <input type="hidden" name="success-url" value="https://developme.training/fellowship">
+
+        <input type="submit" value="Post Comment" class="btn" />
+      </form>
+    </section>
+
+  <footer class="site-footer">
+    <nav class="site-footer__social">
+      <a class="btn--icon" href="http://facebook.com">Facebook</a>
+      <a class="btn--icon" href="http://twitter.com">Twitter</a>
+      <a class="btn--icon" href="http://linkin.com">Linkin</a>
+      <a class="btn--icon" href="http://dribble.com">Dribble</a>
+      <a class="btn--icon" href="http://youtube.com">You Tube</a>
+    </nav>
+  </footer>
+
+
+</div><!--container-->
+
+</body>
+</html>
+
+
+
+
+
+

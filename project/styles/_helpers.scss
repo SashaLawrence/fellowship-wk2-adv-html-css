@@ -1,0 +1,9 @@
+
+@mixin btnStyle($colour) {
+  display: inline-block;
+  padding: 30px; margin: 0px;
+
+  background-color: $colour;
+  border: none;
+  color: white;
+}
