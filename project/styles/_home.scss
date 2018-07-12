@@ -1,0 +1,19 @@
+// two columns of images
+.gallery-one, .gallery-two {
+
+}
+
+.gallery__pic {
+	display: block;
+	padding: 0px $gutter;
+	img {
+		display: block;
+		width: 100%; height: auto;
+		margin-bottom: $verticalSpacing*2;
+	}
+
+}
+
+.no-show {
+	display: none;
+}

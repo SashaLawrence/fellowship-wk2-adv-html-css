@@ -1,0 +1,50 @@
+// colours
+$pink: #fe6c7f;
+$peach: #fff0e8;
+$turq: #41cadd;
+$grey: #4a4a4a;
+
+$black: #111;
+$white: #efefef;
+
+$brandColOne: $pink;
+$brandColTwo: $peach;
+$brandColThree: $turq;
+
+// fonts
+@font-face {
+  font-family: 'Nunito';
+  src: url('../fonts/Nunito/Nunito-Light.woff2') format('woff2'),
+       url('../fonts/Nunito/Nunito-Light.woff') format('woff'),
+       url('../fonts/Nunito/Nunito-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins/Poppins-Bold.woff2') format('woff2'),
+       url('../fonts/Poppins/Poppins-Bold.woff') format('woff'),
+       url('../fonts/Poppins/Poppins-Bold.ttf') format('truetype');
+}
+
+
+$bodyFont: 'Nunito', 'Arial', sans-serif;
+$fontSize: 1.4em;
+$bodyFontColour: $grey;
+
+$headerFont: 'Poppins', 'Impact', serif;
+$headerFontColour: $black;
+$lineHeight: 1.4;
+$letterSpacing: 1px;
+
+$verticalSpacing: 1em;
+$gutter: 1em;
+
+$screenXsmall: 576px;
+$screenSmall: 768px;
+$screenMed: 992px;
+
+body {
+  font-family: $bodyFont;
+  color: $bodyFontColour;
+}
+
