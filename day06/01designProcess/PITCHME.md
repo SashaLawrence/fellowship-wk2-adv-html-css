@@ -10,11 +10,11 @@
 	- CSS Grid
 	- Sass
 	- CSS Methodologies
-	- Design Systems
-	- Some advanced CSS
 
 ---
 
+- Design Systems
+- Some advanced CSS
 - Project: Multipage website |
 - Coding templates, from designs, using what we've learnt |
 
@@ -45,22 +45,6 @@
 
 ---
 
-![Agile process illustration](day06/01designProcess/agile.png)
-
----
-
-![Lean process illustration](day06/01designProcess/lean.png)
-
----
-
-![Kanban process illustration](day06/01designProcess/kanban.png)
-
----
-
-![Scrum process illustration](day06/01designProcess/scrum.png)
-
----
-
 ### Typical waterfall process
 
 - Get brief
@@ -81,6 +65,22 @@
 ---
 
 # Can you see problems?
+
+---
+
+![Agile process illustration](day06/01designProcess/agile.png)
+
+---
+
+![Lean process illustration](day06/01designProcess/lean.png)
+
+---
+
+![Kanban process illustration](day06/01designProcess/kanban.png)
+
+---
+
+![Scrum process illustration](day06/01designProcess/scrum.png)
 
 ---
 
@@ -117,6 +117,8 @@ Fill out the details
 - Different people
 - will use your site differently
 - and for different purposes
+
+>You are not your user
 
 ---
 
