@@ -49,7 +49,7 @@ Box Alignment: [https://codepen.io/Rumyra/pen/opPrJd](https://codepen.io/Rumyra/
 
 
 
-## Talk of the day
+## Talks of the day
 
 [Rachel Andrew: CSS Grid](https://www.youtube.com/watch?v=tjHOLtouElA)
 
@@ -57,10 +57,12 @@ Box Alignment: [https://codepen.io/Rumyra/pen/opPrJd](https://codepen.io/Rumyra/
 
 [Jina Anne: Design Systems](https://www.youtube.com/watch?v=LF_BHvNWzi0)
 
+[Anything by Heydon](https://www.youtube.com/watch?v=qOUtkN6M52M)
+
 
 
 ## Homework
 
-Make sure Sass is installed and read the homepage
+Make sure Sass is installed and read the homepage: [Setup scripts for your computers is here](https://github.com/develop-me/setup/blob/master/README.md)
 
-Make sure you've done your terminal training
+Make sure you've done your terminal training: [it is here](https://www.codecademy.com/learn/learn-the-command-line)
