@@ -20,21 +20,21 @@
 
 ---
 
-## Requirements, Workflow, UX, Scamps, Wireframes
+# Today
+
+## Workflow, Requirements, UX, Scamps, Wireframes
 
 ---
 
-# New Project
+# Workflow
 
 ---
 
-### Each company has it's own work methods
+### Each company/project has it's own work methods
 
 - Waterfall
 - Agile
 - Lean
-- Kanban
-- Scrum
 
 
 [https://toggl.com/developer-methods-infographic](https://toggl.com/developer-methods-infographic)
@@ -69,6 +69,18 @@
 ---
 
 ![Agile process illustration](day06/01designProcess/agile.png)
+
+---
+
+# Can you see benefits?
+
+---
+
+# Can you see any problems?
+
+---
+
+## Some other terminology
 
 ---
 
@@ -188,6 +200,14 @@ The client should be able to add work and other interesting content.
 
 ---
 
+- Site maps used during the planning of a Web site by its designers.
+- Human-visible listings, typically hierarchical, of the pages on a site.
+- Structured listings intended for web crawlers such as search engines.
+
+_cite wikipedia_
+
+---
+
 ### Articulates page structure of a website
 
 Think about:
@@ -237,20 +257,6 @@ Start to think about:
 
 ---
 
-### No visual design
-
-Literally just what is where & how it works
-
----
-
-Crucially, a way of thinking about the content and behaviour **before visual design is considered.**
-
-That’s why wireframes will look **bland and grey.**
-
-We want to **focus on the function** of the site before we start thinking about style.
-
----
-
 # Scamps
 
 ---
@@ -280,6 +286,21 @@ Annotate, make notes, get thinking.
 ---
 
 # Wireframes
+
+---
+
+
+### No visual design
+
+Literally just what is where & how it works
+
+---
+
+Crucially, a way of thinking about the content and behaviour **before visual design is considered.**
+
+That’s why wireframes will look **bland and grey.**
+
+We want to **focus on the function** of the site before we start thinking about style.
 
 ---
 
