@@ -30,6 +30,12 @@
 
 ---
 
+### Some info on carousels
+
+- [https://inclusive-components.design/a-content-slider/](https://inclusive-components.design/a-content-slider/)
+- [https://www.smashingmagazine.com/2015/02/carousel-usage-exploration-on-mobile-e-commerce-websites/](https://www.smashingmagazine.com/2015/02/carousel-usage-exploration-on-mobile-e-commerce-websites/)
+- [http://shouldiuseacarousel.com/](http://shouldiuseacarousel.com/)
+
 ## Talk of the day
 
 [Joe Leech: Power of 100](https://www.youtube.com/watch?v=wvSNGuEbPzg)
