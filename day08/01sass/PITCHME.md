@@ -78,7 +78,7 @@ $content-padding:	40px;
 
 p {
 	color: $brand-colour;
-	font-family: $brand-font:
+	font-family: $brand-font;
 	padding: $content-padding 0;
 }
 
@@ -171,13 +171,18 @@ width: 100px + $padding;
 Like functions in Sass
 
 ```css
-@mixin border-radius($radius) {
-  -webkit-border-radius: $radius;
-     -moz-border-radius: $radius;
-      -ms-border-radius: $radius;
-          border-radius: $radius;
+/* this is a mixin, you can reuse it and change the content */
+@mixin fancyBorder($bordColour, $bkColour) {
+  border: 1px solid $bordColour;
+  box-shadow:
+    inset 0px 0px 0px 3px $bkColour,
+    inset 0px 0px 0px 10px transparentize($bordColour,0.6)
+  ;
 }
-.box { @include border-radius(10px); }
+
+section {
+	@include fancyBorder(blue, red);
+}
 ```
 
 ---
