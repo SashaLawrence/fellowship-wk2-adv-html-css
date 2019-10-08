@@ -8,9 +8,13 @@
 
 ### Style Guide
 
-How things look - colours, fonts, styles etc…
+How you write something - can be tone of voice:
 
 [https://alistapart.com/about/style-guide](https://alistapart.com/about/style-guide)
+
+Or code style guide
+
+[https://css-tricks.com/sass-style-guide/](https://css-tricks.com/sass-style-guide/)
 
 ---
 
@@ -18,7 +22,7 @@ How things look - colours, fonts, styles etc…
 
 Collection of elements you’d use in your website
 
-[http://patterns.alistapart.com/](http://patterns.alistapart.com/)
+[http://ux.mailchimp.com/patterns/dialogs](http://ux.mailchimp.com/patterns/dialogs)
 
 ---
 

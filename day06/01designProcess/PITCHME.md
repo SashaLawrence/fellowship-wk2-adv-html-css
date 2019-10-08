@@ -306,7 +306,9 @@ We want to **focus on the function** of the site before we start thinking about 
 
 ### Think detail
 
-Give to a designer to create designs from.
+Give to client.
+Give to a designer.
+Give to developers & sys admins.
 
 All elements & functionality.
 
@@ -346,9 +348,14 @@ Clients will circulate a wireframe link within the organisation, often without y
 
 ---
 
+Remember it's like the technical documentation version of the design
+
+---
+
 ### Wireframe software
 
 - Balsamiq: [https://balsamiq.com/products/](https://balsamiq.com/products/)
+- Moqups: [https://moqups.com/](https://moqups.com/)
 - Wires: [http://quirktools.com/wires/](http://quirktools.com/wires/)
 - UXPin: [https://www.uxpin.com/](https://www.uxpin.com/)
 - AdobeXD: [https://www.adobe.com/uk/products/xd.html](https://www.adobe.com/uk/products/xd.html)
